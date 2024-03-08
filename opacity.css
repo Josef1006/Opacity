@@ -1,0 +1,72 @@
+*{
+    border:1px solid red;
+    margin: 10px;
+    
+}
+
+body{
+    background-color: orange;
+   
+}
+
+a{
+    background-color: white;
+    color: black;
+}
+
+h1{
+    color: white;
+    background-color: brown;
+}
+
+p{
+    font-size: 35px;
+}
+
+#p0{
+    color: white;
+}
+
+#p0:hover{
+    text-transform: uppercase;
+    background-color: brown;
+    color: white;
+}
+
+#p1:hover{
+    background-color: brown;
+}
+
+#p2:hover{
+    background-color: brown;
+}
+
+#a1{
+    background-color: white;
+    color: black;
+}
+
+#a1:hover{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+a{
+    color: blue;
+    background-color: orange;
+}
+
+img{
+    opacity: 0.5;
+}
+
+img:hover{
+    opacity: 1.0;
+}
+
+#t1:hover, #t2:hover{
+    text-transform: uppercase;
+    background-color: brown;
+    color: white;
+}
